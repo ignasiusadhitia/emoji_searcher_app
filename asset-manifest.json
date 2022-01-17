@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/emoji_searcher_app/static/css/main.3b52ddc5.chunk.css",
+    "main.js": "/emoji_searcher_app/static/js/main.bc2202fe.chunk.js",
+    "main.js.map": "/emoji_searcher_app/static/js/main.bc2202fe.chunk.js.map",
+    "runtime-main.js": "/emoji_searcher_app/static/js/runtime-main.c97f7c61.js",
+    "runtime-main.js.map": "/emoji_searcher_app/static/js/runtime-main.c97f7c61.js.map",
+    "static/js/2.1df5e0b8.chunk.js": "/emoji_searcher_app/static/js/2.1df5e0b8.chunk.js",
+    "static/js/2.1df5e0b8.chunk.js.map": "/emoji_searcher_app/static/js/2.1df5e0b8.chunk.js.map",
+    "index.html": "/emoji_searcher_app/index.html",
+    "static/css/main.3b52ddc5.chunk.css.map": "/emoji_searcher_app/static/css/main.3b52ddc5.chunk.css.map",
+    "static/js/2.1df5e0b8.chunk.js.LICENSE.txt": "/emoji_searcher_app/static/js/2.1df5e0b8.chunk.js.LICENSE.txt",
+    "static/media/emoji-icon.d338b090.svg": "/emoji_searcher_app/static/media/emoji-icon.d338b090.svg",
+    "static/media/search-icon.f071e5c8.svg": "/emoji_searcher_app/static/media/search-icon.f071e5c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97f7c61.js",
+    "static/js/2.1df5e0b8.chunk.js",
+    "static/css/main.3b52ddc5.chunk.css",
+    "static/js/main.bc2202fe.chunk.js"
+  ]
+}
